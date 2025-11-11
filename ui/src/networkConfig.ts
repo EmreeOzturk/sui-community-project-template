@@ -14,7 +14,7 @@ import { createNetworkConfig } from "@mysten/dapp-kit";
  * │ Modules: arena, hero, marketplace
  * └──
  */
-const PACKAGE_ID = "";
+const PACKAGE_ID = "0x249437ca74d0d93aa712be95229e0a409b599765d2d079c9c7176bf65b0b1350";
 
 const { networkConfig, useNetworkVariable, useNetworkVariables } =
   createNetworkConfig({
